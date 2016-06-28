@@ -53,6 +53,7 @@ $ git init
 Initialized empty Git repository in /Users/michael/learngit/.git/
 ```
 **3.编写项目并上传到Github**
+- 只有在第一次上传时才需要git remote指定路径
 ```bash
 $ vim monitor.sh
 $ git add monitor.sh
