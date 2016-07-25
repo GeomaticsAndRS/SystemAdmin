@@ -1,17 +1,18 @@
-# 系统运维
+# 系统管理
 
------
+------
 
-- [before](before)
-- [GitHub基础v1.0](before/github/github-base.md)
-- [GitHub高级v1.0](before/github/github-heigh.md)
-- [GitHub管理员v1.0](before/github/github-admin.md)
-- [Markdown基础v1.0](before/markdown/markdown-base.md)
-- [base](base)
-- [Linux历史与发展](base/history.md)
-- [Linux快捷键](base/hotkey.md)
-- [Linux文件类型](base/filetype.md)
-- [重定向](base/redirect.md)
-- [终端提示符](base/cmdline.md)
-- [man](man)
-- [cat](man/cat.md)
+系统管理员、系统工程师、系统运维工程师、运维开发工程师等和系统相关的职位需要一些基本的系统管理能力。
+这里整理了一些内容分享给大家，也希望大家能够补充完善。   
+
+主要是以Linux为主，windows运维当然更加的缺乏，希望大家积极补充。
+
+基本结构：
+```shell
+Linux
+  base
+  middle
+  high
+Windows
+Shell
+```
